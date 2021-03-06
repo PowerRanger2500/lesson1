@@ -49,4 +49,3 @@ for i in 0...5 {
     contribution1 = contribution * procent
 }
 print ("Сумма вклада стартовая равна ", contribution, ", процентная ставка равна", procent, ", сумма вклада через 5 лет -", contribution1)
-//changes 
