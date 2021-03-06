@@ -44,8 +44,9 @@ print ("Площадь треугольника равна ",S , ", гипоте
 let procent: Double = 12.5
 var contribution: Double = 100000
 var contribution1: Double = 0
-// var i: Int = 0
+var i: Int = 0
 for i in 0...5 {
     contribution1 = contribution * procent
 }
 print ("Сумма вклада стартовая равна ", contribution, ", процентная ставка равна", procent, ", сумма вклада через 5 лет -", contribution1)
+//changes 
